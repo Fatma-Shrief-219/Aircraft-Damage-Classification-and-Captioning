@@ -186,4 +186,4 @@ The application provides:
 
 Computer Science Student
 
-Interested in Artificial Intelligence, Deep Learning, Computer Vision, and Data Science.
+Interested in Artificial Intelligence and Data Science.
