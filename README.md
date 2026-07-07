@@ -17,7 +17,7 @@ An intelligent aircraft inspection system that combines **Transfer Learning** fo
 ## 🔍 Crack Prediction Example
 
 <p align="center">
-  <img src="images/Image0.png" width="850">
+  <img src="images/Image2.png" width="850">
 </p>
 
 ---
